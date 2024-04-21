@@ -51,8 +51,7 @@ print(f"{distance:.2f}")
 ### OUTPUT:
 
 
-![pythonexp3](https://github.com/Confusion7/DISTANCE-BETWEEN-TWO-POINTS/assets/141727149/a5997997-20e5-4d91-80e8-6a6c8d2f276d)
-
+![error](pythonexp3.png)
 
 
 ### RESULT:
